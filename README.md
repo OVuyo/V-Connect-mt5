@@ -29,13 +29,24 @@ We target **institutional-grade alpha** for retail traders, prop firms, and univ
 ```
 V-Connect-mt5/
 │
-├── Experts/          # EAs (Quantum Strategies)
-├── Indicators/       # Quantum Signals
-├── Scripts/          # One-click tools
-├── Include/          # Quantum libs (DLL + headers)
-├── Python/           # Quantum simulators & training
-├── Docs/             # Research papers & proofs
-└── Tests/            # MT5 + Python validation
+├── Docs/                     ← All documentation
+│   ├── DataValidator.md      ← Description, usage, free release
+│   └── QAOA_Explained.md     ← Retail vs Institutional
+│
+├── DLL/                      ← Pre-built + source
+│   ├── DataValidator.dll     ← Built .dll (for users)
+│   └── Source/               ← C++ source
+│       ├── data_validator.cpp
+│       └── build_dll.bat
+│
+├── Experts/                  ← MQL5 EAs
+│   └── TestDLL.mq5           ← Test EA
+│
+├── Include/                  ← Headers (if any)
+│
+├── Python/                   ← Python tools (optional)
+│
+└── README.md                 ← Main README
 ```
 
 ---
