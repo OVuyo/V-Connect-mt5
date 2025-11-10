@@ -84,12 +84,7 @@ git clone https://github.com/OVuyo/V-Connect-mt5.git
 
 ---
 
-## 🏆 Recognition Goals  
-- MQL5 Top 10 Seller  
-- Accepted into **Stellenbosch Quant Finance Lab**  
-- Cited in **IEEE Quantum Finance Journal**  
 
----
 
 ## 🤝 Contribute  
 1. Fork → Build → PR  
