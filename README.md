@@ -30,9 +30,10 @@ We target **institutional-grade alpha** for retail traders, prop firms, and univ
 V-Connect-mt5/
 │
 ├── Docs/                     ← All documentation
-│   ├── DataValidator.md      ← Description, usage, free release
+│   ├── DataValidator.md      ← Description for the .dll version, usage, free release
 │   └── QAOA_Explained.md     ← Retail vs Institutional
-│
+|   └── V-Connect_Data_Validator.md   ← Description of the .ex5 version, usage, free release for the 
+│  
 ├── DLL/                      ← Pre-built + source
 │   ├── DataValidator.dll     ← Built .dll (for users)
 │   └── Source/               ← C++ source
