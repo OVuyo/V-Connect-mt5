@@ -4,4 +4,5 @@ if %errorlevel% == 0 (
   echo SUCCESS: DataValidator.dll built
 ) else (
   echo ERROR: Build failed
+
 )
