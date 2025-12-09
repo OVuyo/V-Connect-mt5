@@ -6,7 +6,8 @@
 ![Quantum](https://img.shields.io/badge/Quantum-Hybrid-orange)
 
 ---
-
+## ⚠️ Notice:
+**SYSTEM IS STILL IN DEVELOPMENT PHASE**
 ## 🚀 Vision  
 **V-Connect** builds **next-gen financial tools** using **quantum computing**, **hybrid quantum-classical algorithms**, and **deep reinforcement learning** — all deployed as **MT4/MT5 Expert Advisors, Indicators & Scripts**.
 
